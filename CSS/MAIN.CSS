@@ -1,0 +1,72 @@
+body {
+    background-image: url("../pictures/MAIN.jpg");
+    background-size: cover;
+    background-position: top;
+    background-attachment: local;
+}
+
+
+
+.header {
+    border: solid;
+    background-image: url("../pictures/derevo2.jpg");
+    background-size: cover;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 1%;
+    padding-bottom: 3%;
+    margin-top: -1%;
+}
+
+.gif1 {
+    max-width: 15%;
+    position: relative;
+    top: -260px;
+    left: 200px;
+}
+
+.gif2 {
+    max-width: 10%;
+    position: relative;
+    top: -295px;
+    left: 1170px;
+}
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+img {
+    max-width: 55%;
+}
+
+td {
+    text-align: center;
+    position: relative;
+    top: -100px;
+    font-size: 40px;
+    color: black;
+}
+
+audio {
+    position: relative;
+    top: 250px;
+}
+
+.vertline {
+    border-left: thick solid black;
+}
+
+A:visited {
+    color: black;
+}
+
+A:active {
+    color:red;
+}
+
+A:hover {
+    color: red;
+}
